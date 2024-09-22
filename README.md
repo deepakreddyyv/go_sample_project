@@ -13,14 +13,16 @@
 ### SetUp
 
 1) Clone the Repo
-git clone https://github.com/deepakreddyyv/go_sample_project.git
-cd go_sample_project
+
+- git clone https://github.com/deepakreddyyv/go_sample_project.git
+
+- cd go_sample_project
 
 2) Build
 
-go build -o tax_calculator
+- go build -o tax_calculator
 
 3) Execute
 
-./tax_calculator
+- ./tax_calculator
 
